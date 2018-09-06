@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+.table > tbody > tr > td {
+  vertical-align: middle;
+  font-family: Arial, sans-serif;
+  font-size:13px;
+}
+
+#legend {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  padding: 1px;
+  margin: 1px;
+  border: 1px solid #fff;
+}
